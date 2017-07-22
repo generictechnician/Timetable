@@ -1,0 +1,25 @@
+<resources>
+    <!--Auto Generated-->
+    <string name="app_name">Timetable</string>
+    <string name="action_settings">Settings</string>
+
+    <!--General-->
+    <string name="period">Period</string>
+    <string name="sub">Subject</string>
+    <string name="room">Room</string>
+    <string name="none">Free</string>
+
+    <string name="filler">Filler Text</string>
+
+    <!--Numbers-->
+    <string name="number_1">1</string>
+    <string name="number_2">2</string>
+    <string name="number_3">3</string>
+    <string name="number_4">4</string>
+    <string name="number_5">5</string>
+    <string name="number_6">6</string>
+    <string name="number_7">7</string>
+    <string name="number_8">8</string>
+    <string name="number_9">9</string>
+    <string name="number_0">0</string>
+</resources>
